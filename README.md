@@ -25,3 +25,5 @@ The To-Do List Application is a simple and intuitive task management tool design
 3. **Delete a Task:** Click the trash icon next to a task to remove it from the list.
 
 This To-Do List Application is perfect for anyone looking to stay organized and on top of their daily tasks. Whether you're managing personal tasks or work-related activities, this application provides a straightforward and efficient way to keep track of your to-dos.
+
+![](preface.png)
