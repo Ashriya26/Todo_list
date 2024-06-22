@@ -1,8 +1,8 @@
-To-Do List Application
-Description
+#To-Do List Application
+#Description
 The To-Do List Application is a simple and intuitive task management tool designed to help users organize their daily tasks efficiently. Built using React, this application leverages modern web development practices to deliver a seamless user experience.
 
-Features
+#Features
 Add New Tasks: Users can easily add new tasks to their to-do list by entering the task description and clicking the "Add" button.
 Task Completion: Users can mark tasks as completed or uncompleted by clicking on the checkbox icon next to each task. Completed tasks are highlighted in green, while pending tasks are shown in grey.
 Delete Tasks: Users can remove tasks from the list by clicking the trash icon.
@@ -12,7 +12,7 @@ Technologies Used
 React: The primary JavaScript library used for building the user interface.
 Bootstrap: Utilized for responsive layout and styling.
 localStorage: Used for persisting tasks between sessions.
-How to Use
+#How to Use
 Add a Task: Enter a task description in the input field and click the "Add" button to add it to your to-do list.
 Mark as Completed: Click the checkbox icon next to a task to mark it as completed. Click it again to mark it as uncompleted.
 Delete a Task: Click the trash icon next to a task to remove it from the list.
